@@ -1,5 +1,7 @@
-## Next.js App Router Course - Starter
+# Next.js 14 Acme Dashboard App
 
-This is the starter template for the Next.js App Router Course. It contains the starting code for the dashboard application.
+Aplicación web con _**Next.js**_ utilizando la plantilla del proyecto _**Acme**_. Se han usado componentes prediseñados con las convenciones y patrones de Next.js. Conectamos la lógica y los datos de la aplicación web para darle vida y hacer una demostración completa.
 
-For more information, see the [course curriculum](https://nextjs.org/learn) on the Next.js Website.
+## Créditos 
+
+Este proyecto fue realizado siguiendo el curso _**Next.js App Router - Starter**_ de [Acme](https://nextjs.org/learn) en el sitio web de Next.js.
